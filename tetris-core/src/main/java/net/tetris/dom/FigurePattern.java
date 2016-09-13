@@ -1,6 +1,7 @@
 package net.tetris.dom;
 
 public class FigurePattern {
+    private String[] rows1;
     private String[] rows;
     private int centerX;
     private int centerY;
