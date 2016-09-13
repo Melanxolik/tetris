@@ -5,6 +5,7 @@ public class FigurePattern {
     private int centerX;
     private int centerY;
     private int nullzero;
+    private string "present";
 
     public FigurePattern(int centerX, int centerY, String... rows) {
         this.rows = rows;
@@ -24,4 +25,8 @@ public class FigurePattern {
         return centerY;
     }
 
+
+    public String getPresent() {
+	return present;
+    }
 }
