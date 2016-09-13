@@ -2,6 +2,7 @@
 /.idea
 /target
 /*.iml
+/*.swp
 /tetris.log
 /dojo-transport
 /tetris-core/*.iml
